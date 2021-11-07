@@ -70,7 +70,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi ErrorMsg guifg=#505354 guibg=NONE gui=NONE cterm=NONE
   hi FoldColumn guifg=#f2efed guibg=NONE gui=NONE cterm=NONE
   hi Folded guifg=#505354 guibg=NONE gui=italic cterm=italic
-  hi IncSearch guifg=#1f1e20 guibg=#e5d4aa gui=NONE cterm=NONE
+  hi IncSearch guifg=#e5d4aa guibg=#1f1e20 gui=NONE cterm=NONE
   hi LineNr guifg=#505354 guibg=NONE gui=NONE cterm=NONE
   hi MatchParen guifg=#505354 guibg=#deaf9d gui=NONE cterm=NONE
   hi ModeMsg guifg=#dadbd6 guibg=NONE gui=NONE cterm=NONE
@@ -218,7 +218,7 @@ if s:t_Co >= 8
   hi ErrorMsg ctermfg=DarkGrey ctermbg=NONE cterm=NONE
   hi FoldColumn ctermfg=LightGrey ctermbg=NONE cterm=NONE
   hi Folded ctermfg=DarkGrey ctermbg=NONE cterm=italic
-  hi IncSearch ctermfg=Black ctermbg=DarkYellow cterm=NONE
+  hi IncSearch ctermfg=DarkYellow ctermbg=Black cterm=NONE
   hi LineNr ctermfg=DarkGrey ctermbg=NONE cterm=NONE
   hi MatchParen ctermfg=DarkGrey ctermbg=LightRed cterm=NONE
   hi ModeMsg ctermfg=White ctermbg=NONE cterm=NONE

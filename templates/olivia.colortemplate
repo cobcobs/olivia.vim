@@ -108,7 +108,7 @@ EndOfBuffer          white             none
 ErrorMsg             brightblack       none
 FoldColumn           white             none
 Folded               brightblack       none              italic
-IncSearch            black             yellow
+IncSearch            yellow            black
 LineNr               brightblack       none
 MatchParen           brightblack       brightred
 ModeMsg              brightwhite       none
