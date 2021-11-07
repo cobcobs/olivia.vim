@@ -1,7 +1,7 @@
 " Name:         Olivia
-" Description:  Colorscheme inspired by GMK Olivia
+" Description:  Colorscheme inspired by GMK Olivia++
 " Author:       Jacob <https://github.com/jacob-ethan>
-" Maintainer:   Myself <https://github.com/jacob-ethan>
+" Maintainer:   Jacob <https://github.com/jacob-ethan>
 " Website:      https://github.com/jacob-ethan
 " License:      Public domain
 " Last Updated: Sat Nov  6 22:42:03 2021
@@ -115,7 +115,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi ToolbarButton guifg=#f2efed guibg=#1f1e20 gui=bold cterm=bold
   if !s:italics
     hi Folded gui=NONE cterm=NONE
-    hi Comment gui=NONE cterm=NONE gui=italic
+    hi Comment cterm=NONE
   endif
   unlet s:t_Co s:italics
   finish
