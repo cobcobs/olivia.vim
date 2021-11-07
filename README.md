@@ -10,9 +10,13 @@ olivia.vim was generated using [vim-colortemplate](https://github.com/lifepillar
 ## Screenshots
 ![screenshot](https://github.com/jacob-ethan/olivia.vim/blob/master/images/screenshot.png?raw=true)
 
-## Manual Installation
+## Installation
+```
+" Using vim-plug
+Plug 'jacob-ethan/olivia.vim'
 
-To install olivia manually, clone this repository. Afterwards copy the wal.vim file into `$HOME/.vim/colors` or wherever your (n)vim `colors` directory is located
+set termguicolors
+colorscheme olivia
+```
 
-## Known Issues
-- Installing with [vim-plug](https://github.com/junegunn/vim-plug) breaks this theme
+To install olivia manually, clone this repository. Afterwards copy `colors/olivia.vim` into your (n)vim directory
