@@ -12,7 +12,7 @@ olivia.vim was generated using [vim-colortemplate](https://github.com/lifepillar
 
 ## Manual Installation
 
-To install olivia manually, clone this repository. Afterwards copy the wal.vim file into `$HOME/.vim/colors` or wherever your vim/neovim colors directory is located
+To install olivia manually, clone this repository. Afterwards copy the wal.vim file into `$HOME/.vim/colors` or wherever your (n)vim `colors` directory is located
 
 ## Known Issues
 - Installing with [vim-plug](https://github.com/junegunn/vim-plug) breaks this theme
