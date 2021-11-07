@@ -56,7 +56,7 @@ Background: dark
 ; Color palette {{{
 ; Color name         GUI                     Base256     Base16 (optional)
 Color: black         #1f1e20                   ~         Black
-Color: red           #aa2f3b                   ~         DarkRed
+Color: red           #bf616a                   ~         DarkRed
 Color: green         #c6c5bf                   ~         DarkGreen
 Color: yellow        #e5d4aa                   ~         DarkYellow
 Color: blue          #737174                   ~         DarkBlue
