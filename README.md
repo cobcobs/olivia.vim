@@ -19,4 +19,4 @@ set termguicolors
 colorscheme olivia
 ```
 
-To install olivia manually, clone this repository. Afterwards copy `colors/olivia.vim` into your (n)vim directory
+To install olivia manually, clone this repository. Afterwards, copy `colors/olivia.vim` into your (n)vim directory
