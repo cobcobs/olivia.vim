@@ -1,8 +1,14 @@
-# olivia.vim
+![olivia.vim](https://github.com/jacob-ethan/olivia.vim/blob/master/images/Olivia++.png?raw=true)
+===
 
-A dark vim color scheme inspired by [GMK Olivia++](https://www.oliviaplus.plus/) and [wal.vim](https://github.com/dylanaraps/wal.vim)
+olivia.vim is a dark vim color scheme inspired by:
+- [GMK Olivia++](https://www.oliviaplus.plus/)
+- [wal.vim](https://github.com/dylanaraps/wal.vim)
 
-Generated using [vim-colortemplate](https://github.com/lifepillar/vim-colortemplate)
+olivia.vim was generated using [vim-colortemplate](https://github.com/lifepillar/vim-colortemplate)
+
+## Screenshots
+
 
 ## Manual Installation
 
