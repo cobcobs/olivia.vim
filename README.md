@@ -8,7 +8,7 @@ olivia.vim is a dark vim color scheme inspired by:
 olivia.vim was generated using [vim-colortemplate](https://github.com/lifepillar/vim-colortemplate)
 
 ## Screenshots
-
+![screenshot](https://github.com/jacob-ethan/olivia.vim/blob/master/images/screenshot.png?raw=true)
 
 ## Manual Installation
 
@@ -16,6 +16,3 @@ To install olivia manually, clone this repository. Afterwards copy the wal.vim f
 
 ## Known Issues
 - Installing with [vim-plug](https://github.com/junegunn/vim-plug) breaks this theme
-
-## Todo
-- [ ] Screenshots
