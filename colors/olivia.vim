@@ -353,7 +353,7 @@ endif
 
 " Background: dark
 " Color: black         #1f1e20                   ~         Black
-" Color: red           #bf616a                   ~         DarkRed
+" Color: red           #b76e79                   ~         DarkRed
 " Color: green         #c6c5bf                   ~         DarkGreen
 " Color: yellow        #e5d4aa                   ~         DarkYellow
 " Color: blue          #737174                   ~         DarkBlue
