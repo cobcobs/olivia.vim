@@ -6,9 +6,9 @@ Full name:     Olivia
 Short name:    olivia
 Author:        Jacob <https://github.com/jacob-ethan>
 ; Optional
-Maintainer:    Myself <https://github.com/jacob-ethan>
+Maintainer:    Jacob <https://github.com/jacob-ethan>
 Website:       https://github.com/jacob-ethan
-Description:   Colorscheme inspired by GMK Olivia
+Description:   Colorscheme inspired by GMK Olivia++
 License:       Public domain
 ; Prefix for options: short name is used if this key is not present:
 Option Prefix: olivia
@@ -108,7 +108,7 @@ EndOfBuffer          white             none
 ErrorMsg             brightblack       none
 FoldColumn           white             none
 Folded               brightblack       none              italic
-IncSearch            yellow            black
+IncSearch            red               black
 LineNr               brightblack       none
 MatchParen           brightblack       brightred
 ModeMsg              brightwhite       none
@@ -119,7 +119,7 @@ PmenuSbar            white             brightblack
 PmenuSel             black             brightblack
 PmenuThumb           brightblack       brightblack
 Question             brightblack       none
-Search               black             yellow
+Search               black             red
 SignColumn           brightblack       none
 SpecialKey           brightblack       none
 SpellBad             brightred         none              underline
