@@ -70,7 +70,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi ErrorMsg guifg=#505354 guibg=NONE gui=NONE cterm=NONE
   hi FoldColumn guifg=#f2efed guibg=NONE gui=NONE cterm=NONE
   hi Folded guifg=#505354 guibg=NONE gui=italic cterm=italic
-  hi IncSearch guifg=#b76e79 guibg=#1f1e20 gui=NONE cterm=NONE
+  hi IncSearch guifg=#deaf9d guibg=#1f1e20 gui=NONE cterm=NONE
   hi LineNr guifg=#505354 guibg=NONE gui=NONE cterm=NONE
   hi MatchParen guifg=#505354 guibg=#deaf9d gui=NONE cterm=NONE
   hi ModeMsg guifg=#dadbd6 guibg=NONE gui=NONE cterm=NONE
@@ -81,7 +81,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi PmenuSel guifg=#1f1e20 guibg=#505354 gui=NONE cterm=NONE
   hi PmenuThumb guifg=#505354 guibg=#505354 gui=NONE cterm=NONE
   hi Question guifg=#505354 guibg=NONE gui=NONE cterm=NONE
-  hi Search guifg=#1f1e20 guibg=#b76e79 gui=NONE cterm=NONE
+  hi Search guifg=#1f1e20 guibg=#deaf9d gui=NONE cterm=NONE
   hi SignColumn guifg=#505354 guibg=NONE gui=NONE cterm=NONE
   hi SpecialKey guifg=#505354 guibg=NONE gui=NONE cterm=NONE
   hi SpellBad guifg=#deaf9d guibg=NONE gui=underline cterm=underline
@@ -101,7 +101,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi WildMenu guifg=#1f1e20 guibg=#dadbd6 gui=NONE cterm=NONE
   hi Comment guifg=#505354 guibg=NONE gui=italic cterm=italic
   hi Constant guifg=#e5d4aa guibg=NONE gui=NONE cterm=NONE
-  hi Error guifg=#f2efed guibg=#b76e79 gui=NONE cterm=NONE
+  hi Error guifg=#f2efed guibg=#deaf9d gui=NONE cterm=NONE
   hi Identifier guifg=#deaf9d guibg=NONE gui=bold cterm=bold
   hi Ignore guifg=#1f1e20 guibg=#505354 gui=NONE cterm=NONE
   hi PreProc guifg=#e5d4aa guibg=NONE gui=NONE cterm=NONE

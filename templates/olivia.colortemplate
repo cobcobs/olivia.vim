@@ -108,7 +108,7 @@ EndOfBuffer          white             none
 ErrorMsg             brightblack       none
 FoldColumn           white             none
 Folded               brightblack       none              italic
-IncSearch            red               black
+IncSearch            brightred         black
 LineNr               brightblack       none
 MatchParen           brightblack       brightred
 ModeMsg              brightwhite       none
@@ -119,7 +119,7 @@ PmenuSbar            white             brightblack
 PmenuSel             black             brightblack
 PmenuThumb           brightblack       brightblack
 Question             brightblack       none
-Search               black             red
+Search               black             brightred
 SignColumn           brightblack       none
 SpecialKey           brightblack       none
 SpellBad             brightred         none              underline
