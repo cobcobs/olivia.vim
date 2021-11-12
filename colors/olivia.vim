@@ -158,10 +158,10 @@ if s:t_Co >= 256
   hi Search ctermfg=234 ctermbg=131 cterm=NONE
   hi SignColumn ctermfg=239 ctermbg=NONE cterm=NONE
   hi SpecialKey ctermfg=239 ctermbg=NONE cterm=NONE
-  " hi SpellBad ctermfg=181 ctermbg=NONE cterm=underline
-  " hi SpellCap ctermfg=239 ctermbg=NONE cterm=underline
-  " hi SpellLocal ctermfg=239 ctermbg=NONE cterm=underline
-  " hi SpellRare ctermfg=239 ctermbg=NONE cterm=underline
+  hi SpellBad ctermfg=181 ctermbg=NONE cterm=underline
+  hi SpellCap ctermfg=239 ctermbg=NONE cterm=underline
+  hi SpellLocal ctermfg=239 ctermbg=NONE cterm=underline
+  hi SpellRare ctermfg=239 ctermbg=NONE cterm=underline
   hi StatusLine ctermfg=234 ctermbg=255 cterm=NONE
   hi StatusLineNC ctermfg=234 ctermbg=239 cterm=NONE
   hi TabLine ctermfg=239 ctermbg=NONE cterm=NONE
@@ -232,10 +232,10 @@ if s:t_Co >= 8
   hi Search ctermfg=Black ctermbg=DarkRed cterm=NONE
   hi SignColumn ctermfg=DarkGrey ctermbg=NONE cterm=NONE
   hi SpecialKey ctermfg=DarkGrey ctermbg=NONE cterm=NONE
-  " hi SpellBad ctermfg=LightRed ctermbg=NONE cterm=underline
-  " hi SpellCap ctermfg=DarkGrey ctermbg=NONE cterm=underline
-  " hi SpellLocal ctermfg=DarkGrey ctermbg=NONE cterm=underline
-  " hi SpellRare ctermfg=DarkGrey ctermbg=NONE cterm=underline
+  hi SpellBad ctermfg=LightRed ctermbg=NONE cterm=underline
+  hi SpellCap ctermfg=DarkGrey ctermbg=NONE cterm=underline
+  hi SpellLocal ctermfg=DarkGrey ctermbg=NONE cterm=underline
+  hi SpellRare ctermfg=DarkGrey ctermbg=NONE cterm=underline
   hi StatusLine ctermfg=Black ctermbg=LightGrey cterm=NONE
   hi StatusLineNC ctermfg=Black ctermbg=DarkGrey cterm=NONE
   hi TabLine ctermfg=DarkGrey ctermbg=NONE cterm=NONE
